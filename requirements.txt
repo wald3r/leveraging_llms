@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+faiss-cpu
+langchain-community
+llamaapi
+python-dotenv
+tiktoken
+spacy
+pandas
+scikit-learn
